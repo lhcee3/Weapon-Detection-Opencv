@@ -21,15 +21,14 @@ This project demonstrates a real-time weapon detection application using Streaml
 1. **Clone or Download the Repository:**
    - Clone the repository to your local machine using Git (recommended):
      ```bash
-     git clone [https://github.com/](https://github.com/)<your_username>/<repository_name>.git
+     git clone https://github.com/lhcee3/Weapon-Detection-Opencv.git
      ```
-     Replace `<your_username>` with your GitHub username and `<repository_name>` with the actual name of your repository.
-   - Alternatively, you can download the ZIP file from your GitHub repository and extract it.
+   
 
 2. **Set Up the Environment:**
    - Create a virtual environment to isolate project dependencies (recommended):
      ```bash
-     python -m venv venv  # Replace "venv" with your desired environment name
+     python -m venv venv  
      source venv/bin/activate  # Activate the virtual environment (Linux/macOS)
      venv\Scripts\activate.bat  # Activate on Windows
      ```
