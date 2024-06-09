@@ -10,7 +10,7 @@ This project demonstrates a real-time weapon detection application using Streaml
 
 **Prerequisites:**
 
-- Python 3.x
+- Python 3.12.3
 - Streamlit library (`pip install streamlit`)
 - OpenCV library (`pip install opencv-python`)
 - imutils library (`pip install imutils`)
