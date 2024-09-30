@@ -1,5 +1,5 @@
 ## Setting the Context
-This project was under a collaborative effort of [Aneesh](https://github.com/lhcee3) and [Hemanth](https://github.com/hemanth-yasaswi) for the Hackathon Hosted at Lords Insitutute of Technology, Hyderabad on 10th June, 2024.
+This project was under a collaborative effort of [Aneesh](https://github.com/lhcee3) and [Hemanth](https://github.com/hemanth-yasaswi) for the Hackathon Hosted at Lords Insitutute of Technology, Hyderabad on the 8th and 9th of June, 2024.
 
 ![IMG-20240610-WA0004](https://github.com/user-attachments/assets/65a92902-3634-4fa8-b04b-7a3e03e8743d)
 
